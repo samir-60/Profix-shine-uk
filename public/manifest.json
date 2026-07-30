@@ -1,0 +1,28 @@
+{
+  "name": "ProFix & Shine | Painting & Cleaning Services Luton",
+  "short_name": "ProFix & Shine",
+  "description": "Professional painting, garden cleaning, window cleaning and pressure jet washing in Luton & Bedfordshire.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7FAFC",
+  "theme_color": "#0A2A6B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-bg-white.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "lifestyle", "utilities"],
+  "lang": "en-GB"
+}
+

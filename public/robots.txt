@@ -1,0 +1,44 @@
+# ProFix & Shine Search Engine & AI Agent Robots Directives
+
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+# Bing Webmaster & Bingbot
+User-agent: Bingbot
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+User-agent: msnbot
+Allow: /
+
+# Generative AI & Answer Engine Bots (GEO & AEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Host
+Host: https://www.profixandshine.co.uk
+
+# Sitemaps & Knowledge Graph
+Sitemap: https://www.profixandshine.co.uk/sitemap.xml
+LLMs: https://www.profixandshine.co.uk/llms.txt
